@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > Outline a brief description of your project.
 
 
@@ -43,6 +43,9 @@ Give credit here.
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
+
+1) Pavan Kalyan Kanakam
+2) Bharath B P
 
 
 <!-- Optional -->
